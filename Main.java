@@ -7,7 +7,7 @@ public class Main
     Scanner = new Scanner(System.in);
     System.out.println("Please enter a double: ");
     int value1 = scanner.nextLine();
-    if (value1 == 12.345);
+    if (value1 == 12.345)
     {
       System.out.println("YES");
     }
